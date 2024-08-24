@@ -1,5 +1,16 @@
 body{
     h1, h3, h4 {
         text-align: center; /* Centra el texto dentro del h1 */
+   
+        
     }
 }
+
+.contenedor{
+    text-align: center
+    ;
+
+}
+
+
+    
